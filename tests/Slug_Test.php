@@ -20,6 +20,9 @@ class Slug_Test extends TestCase
 
     public function test_slugify()
     {
+        // This test passes
         $this->assertEquals('hello-world', slugify('Hello World'));
+        // Now let's write a test that fails
+        $this->assertEquals('hello-world', slugify('Hello World!'));
     }
 }
