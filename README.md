@@ -1,6 +1,6 @@
 # Refactoring Legacy PHP
 
-### The purpose of this repository is to demonstrate how to refactory a legacy PHP codebase.
+### The purpose of this repository is to demonstrate how to refactor a legacy PHP codebase.
 
 Each branch will demonstrate one of the steps.
 
